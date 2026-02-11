@@ -3,3 +3,4 @@ docx2txt
 PyPDF2
 transformers
 torch
+tf-keras
